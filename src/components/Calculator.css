@@ -1,0 +1,48 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange {
+    background-color: #FF9500;
+    color: white;
+}
+
+.gray {
+    background-color: #0051ff;
+    color: white;
+}
+
+.result {
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0.5em;
+    font-size: 3.5em;
+
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.zero {
+    background-color: #0051ff;
+    color: white;
+    padding: 10px 130px 10px 10px;
+    padding-left: 30px;
+}
