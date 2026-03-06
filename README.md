@@ -31,12 +31,12 @@ State management
 Handling user input
 
 
-📂 Project Structure
+## 📂 Project Structure
 
+```bash
 calculator/
 │
 ├── src/
-│   │
 │   ├── components/
 │   │   ├── Calculator.css
 │   │   └── Calculator.jsx
@@ -47,7 +47,7 @@ calculator/
 │
 ├── package-lock.json
 └── package.json
-
+```
 
 ▶️ How to Run the Project
 
